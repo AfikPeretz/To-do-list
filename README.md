@@ -1,4 +1,4 @@
-# To_do_list
+# To-do-list
 In this project I built a web app that serves as a to-do list, the project has been uploaded to the world wide web with heroku and it can be Opened and used through the following link:
 https://arcane-meadow-73231.herokuapp.com/
 <br>
